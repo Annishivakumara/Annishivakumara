@@ -21,9 +21,9 @@
 
 - 💬 Ask me about **Java Problem solving And  OOPS**
 
-- 📫 How to reach me **ashivu656@gmail.com**
+- 📫 How to reach me ** :- ashivu656@gmail.com**
 
-- ⚡ Fun fact **I think I am Creative on Coding**
+- ⚡ Fun fact    ** :-I think I am Creative on Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
