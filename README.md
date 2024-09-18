@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annishivakumara&label=Profile%20views&color=0e75b6&style=flat" alt="annishivakumara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annishivakumara" alt="annishivakumara" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/annishivakumara" target="blank"><img src="https://img.shields.io/twitter/follow/annishivakumara?logo=twitter&style=for-the-badge" alt="annishivakumara" /></a> </p>
 
@@ -42,6 +42,7 @@
 <p><a href="https://www.buymeacoffee.com/annishivakumara"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="annishivakumara" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annishivakumara&show_icons=true&locale=en&layout=compact" alt="annishivakumara" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annishivakumara" alt="annishivakumara" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annishivakumara&show_icons=true&locale=en" alt="annishivakumara" /></p>
 
