@@ -20,7 +20,7 @@
   
 - 📫 How to reach me ** :- ashivu656@gmail.com**
   
-- ⚡ Fun fact    ** :-I think I am Creative on Coding**
+- ⚡ Fun fact    ** :- by looking changing  people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
