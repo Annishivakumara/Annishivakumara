@@ -20,7 +20,7 @@
   
 - 📫 How to reach me ** :- ashivu656@gmail.com**
   
-- ⚡ Fun fact    ** :- Try to do better**
+- ⚡ Fun fact    ** :-   No ,The people who overact during studies are fun to me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
