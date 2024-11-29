@@ -4,23 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annishivakumara&label=Profile%20views&color=0e75b6&style=flat" alt="annishivakumara" /> </p>
 <p align="left"> <a href="https://twitter.com/annishivakumara" target="blank"><img src="https://img.shields.io/twitter/follow/annishivakumara?logo=twitter&style=for-the-badge" alt="annishivakumara" /></a> </p>
-
-- 🔭 I’m currently working on **DART (Flutter)**
+- 🔭 I’m currently working on **python **
   
-- 🌱 I’m currently learning **DSA , Flutter**
+- 🌱 I’m currently learning **DSA **
   
 - I’m looking to collaborate on **java and Flutter Mini  Project's**
   
 - 🤝 I’m looking for help with **Some error and bugs**
-- 👨‍💻 All of my projects are available at [https://github.com/Annishivakumara](https://github.com/Annishivakumara
   
 - 📝 I regularly write articles on [DSA](DBMS)
-  
-- 💬 Ask me about **Java Problem solving And  OOPS**
-  
+- 
 - 📫 How to reach me ** :- ashivu656@gmail.com**
-  
-- ⚡ Fun fact    ** :-   No ,The people who overact during studies are fun to me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
