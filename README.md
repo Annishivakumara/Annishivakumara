@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help with **Some error and bugs**
   
 - 📝 I regularly write articles on [DSA](DBMS)
-- 
+
 - 📫 How to reach me ** :- ashivu656@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
