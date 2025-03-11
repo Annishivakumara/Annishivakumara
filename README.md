@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anni Shivakumara</h1>
 
-<h3 align="center">I am CSE Student</h3>
+<h3 align="center">I am programing ENTHUSIAST </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annishivakumara&label=Profile%20views&color=0e75b6&style=flat" alt="annishivakumara" /> </p>
 <p align="left"> <a href="https://twitter.com/annishivakumara" target="blank"><img src="https://img.shields.io/twitter/follow/annishivakumara?logo=twitter&style=for-the-badge" alt="annishivakumara" /></a> </p>
