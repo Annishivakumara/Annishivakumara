@@ -2,17 +2,17 @@
 
 <h3 align="center">I am programing ENTHUSIAST </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annishivakumara&label=Profile%20views&color=0e75b6&style=flat" alt="annishivakumara" /> </p>
-<p align="left"> <a href="https://twitter.com/annishivakumara" target="blank"><img src="https://img.shields.io/twitter/follow/annishivakumara?logo=twitter&style=for-the-badge" alt="annishivakumara" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=annishivakumara&label=Profile%20views&color=0e75b6&style=flat" alt="annishivakumara" /> </p>
+<p align="center"> <a href="https://twitter.com/annishivakumara" target="blank"><img src="https://img.shields.io/twitter/follow/annishivakumara?logo=twitter&style=for-the-badge" alt="annishivakumara" /></a> </p>
 - 🔭 I’m currently working on **python **
   
-- 🌱 I’m currently learning **DSA **
+- 🌱 I’m currently learning 2nd year Btech
   
 - I’m looking to collaborate on **java and Flutter Mini  Project's**
   
 - 🤝 I’m looking for help with **Some error and bugs**
   
-- 📝 I regularly write articles on [DSA](DBMS)
+- 📝 I regularly read articles on Tech
 
 - 📫 How to reach me ** :- ashivu656@gmail.com**
 
