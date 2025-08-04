@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning 2nd year Btech
   
-- I’m looking to collaborate on **java and Flutter Mini  Project's**
+- I’m looking to collaborate on **java Projects**
   
 - 🤝 I’m looking for help with **Some error and bugs**
   
