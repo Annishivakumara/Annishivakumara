@@ -6,13 +6,13 @@
 <p align="center"> <a href="https://twitter.com/annishivakumara" target="blank"><img src="https://img.shields.io/twitter/follow/annishivakumara?logo=twitter&style=for-the-badge" alt="annishivakumara" /></a> </p>
 
 - 🔭 I’m currently working on python
-- 🌱 I’m currently learning 2nd year Btech
-- I’m looking to collaborate on **java Projects**
-- 🤝 I’m looking for help with **Some error and bugs**
+- 🌱 I’m currently learning 3rd year Btech
+-    I’m looking to collaborate on java Projects
+- 🤝 I’m looking for help with Some error and bugs
 - 📝 I regularly read articles on Tech
-- 📫 How to reach me ** :- ashivu656@gmail.com**
+- 📫 How to reach me :- ashivu656@gmail.com
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"> Connect with me:</h3>
 <p align="center">
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/anni-shivakumara-2aa93b294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anni-shivakumara-2aa93b294" height="30" width="40" /></a>
