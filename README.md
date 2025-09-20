@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://twitter.com/annishivakumara" target="blank"><img src="https://img.shields.io/twitter/follow/annishivakumara?logo=twitter&style=for-the-badge" alt="annishivakumara" /></a> </p>
 
 - 🔭 I’m currently working on python
-- 🌱 I’m currently learning 3rd year Btech
+- 🌱 I’m currently 3rd year Btech
 -    I’m looking to collaborate on java Projects
 - 🤝 I’m looking for help with Some error and bugs
 - 📝 I regularly read articles on Tech
