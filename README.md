@@ -71,9 +71,7 @@ Outside of code, I run **Vidya Sampadana** — an education nonprofit I co-found
         <img src="https://img.shields.io/badge/Type-CRUD%20App-a371f7?style=flat-square"/>
       </p>
       <br/>
-      <blockquote>
-        🔮 <b>Coming Soon:</b> ML-oriented Java project
-      </blockquote>
+     
     </td>
   </tr>
 </table>
